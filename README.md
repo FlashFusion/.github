@@ -1,2 +1,0 @@
-# welcome
-shitty ass devs
