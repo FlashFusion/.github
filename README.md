@@ -1,1 +1,2 @@
-# .github
+# welcome
+shitty ass devs
