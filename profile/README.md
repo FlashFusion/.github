@@ -1,2 +1,2 @@
 Welcome to Zevix labs.
-[here's zevix](/zevix0)
+[here's zevix](https://github.com/org/zevix0)
